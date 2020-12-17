@@ -37,9 +37,10 @@
 
 ---
 
-## Current/Done Projects Recently
-* [SAINT Paper Implementation](https://arxiv.org/abs/2002.07033) for Kaggle Competition [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction) 🚀 Coming very Soon
+## Current/recent Done Projects 
+* [SAINT Paper Implementation](https://arxiv.org/abs/2002.07033) for Kaggle Competition [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction) 🚀 Completed - available [here](https://github.com/Shivanandmn/Knowledge-Tracing-SAINT)
 * [SAINT+ Paper Implementaions](https://arxiv.org/abs/2010.12042) for above competition 🚀 Coming Soon
+* Web-app for recommending jobs based on user-interaction 🚀 Coming Very Soon
 
 ---
 
