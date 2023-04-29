@@ -10,6 +10,8 @@
 
 <br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Catch me:
 
 [<img align="center" alt="shivanand_mn | Twitter" hspace="10" height="40" width="50px" style="background-color:#FFFFFF" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />](https://twitter.com/shivanand_mn)
