@@ -32,15 +32,4 @@
 
 <br />
 <br/>
-
----
-
-## Current/recent Done Projects 
-
-
----
-
-## Current Kaggle Competition Work 
-
-
   
