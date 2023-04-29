@@ -2,7 +2,7 @@
 
 ## I'm a Coder, Researcher, and Reader!!
 
-[![Shivanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivanandmn)](https://github.com/anuraghazra/github-readme-stats)
+[![Shivanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivanandmn&show_icons=true)](https://github.com/Shivanandmn?tab=repositories)
 
 - 🔭 Working for major EdTech Company!
 - 🌱 I’m currently learning Knowledge Tracing Models for Student profiling 🤣
