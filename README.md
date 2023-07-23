@@ -1,9 +1,25 @@
-### Hi there I'm Shivanand 👋
+## Languages
+<picture>
+    <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanandmn&layout=compact&show_icons=true&theme=dark&include_all_commits=true"
+    media="(prefers-color-scheme: dark)"
+    />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanandmn&layout=compact&show_icons=true&include_all_commits=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanandmn&show_icons=true" />
+</picture>
 
-## I'm a Coder, Researcher and Reader!!
-
-[![Shivanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivanandmn&show_icons=true)](https://github.com/Shivanandmn?tab=repositories)
-
-<br />
-<br/>
-  
+## Stats
+<picture>
+    <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=shivanandmn&show_icons=true&theme=dark&include_all_commits=true&layout=compact"
+    media="(prefers-color-scheme: dark)"
+    />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shivanandmn&show_icons=true&include_all_commits=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=shivanandmn&show_icons=true" />
+</picture>
