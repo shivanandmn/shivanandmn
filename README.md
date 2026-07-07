@@ -1,14 +1,15 @@
-# Shivanand M. N.
+# Shivanand N.
 
-**AI Engineer** — RAG · LLM fine-tuning · AI agents · Search at scale
+**Machine Learning Engineer** — LLM Fine-Tuning, Alignment & Pre-Training
 
-Based in Bengaluru, India. I build AI systems that ship to production and generate revenue — not demos.
+5+ years training, fine-tuning, and evaluating language models at scale for production systems serving 1M+ users. Based in Bengaluru, India.
 
-- 🔎 Built a QnA search system (ElasticSearch + BERT + ANN + LTR) handling **2M+ requests/day** and driving **$600k/month** in revenue at BYJU'S
-- 🤖 Fine-tuned Llama-2, Mistral-7B, Falcon, and Gemini on domain-specific tasks using QLoRA, PEFT, and DPO
+- 🧬 Pre-trained a 355M-param GPT-2-medium architecture model from scratch on **28B tokens** (DeepSpeed, 4x NVIDIA H100, distributed multi-GPU training)
+- 🎯 Fine-tuning (SFT, LoRA, QLoRA) and DPO/preference alignment on Gemma, Llama-2/3, Mistral, Qwen2.5, and GPT models
+- 🧪 Improved Phi-4-14B-Instruct by 2% across HF leaderboard benchmarks via Model Stock merging
 - ⚡ Architected RAG pipelines (LlamaIndex + Weaviate) with **92% retrieval accuracy** and 20% latency reduction
-- 🧠 Building AI agents with tool use, memory, and planning — and MCP servers for LLM-tool integration
-- 🏅 Gold medallist · Top Rated Plus on Upwork (top 3%)
+- 🔎 Built a QnA search system (ElasticSearch + BERT + ANN + LTR) serving **1M+ students** and **1B+ data points** at BYJU'S
+- 🏅 Gold medallist (Electrical Engineering) · Top-Rated freelancer, 100% JSS, top 10% on Upwork
 
 ---
 
@@ -27,7 +28,7 @@ Based in Bengaluru, India. I build AI systems that ship to production and genera
 
 ### Stack
 
-`Python` `PyTorch` `HuggingFace` `LlamaIndex` `LangChain` `Weaviate` `ElasticSearch` `FastAPI` `AWS (EC2 · Inferentia-2)`
+`Python` `PyTorch` `HuggingFace` `DeepSpeed` `LlamaIndex` `LangChain` `CrewAI` `Weaviate` `ElasticSearch` `FastAPI` `Docker` `Kubernetes` `AWS (EC2 · Inferentia-2)` `GCP`
 
 ---
 
